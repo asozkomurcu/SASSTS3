@@ -26,6 +26,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Core\SASSTS.Application\SASSTS.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\SASSTS.Infrastructure\SASSTS.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

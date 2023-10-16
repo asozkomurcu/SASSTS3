@@ -9,17 +9,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Infrastructure", "2-Infra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Api", "3-Api", "{2DA066B9-ABE3-4603-8152-A55C55F032FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SASSTS.Application", "Core\SASSTS.Application\SASSTS.Application.csproj", "{281C5750-34C5-4961-8F4B-A929083C276A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SASSTS.Application", "Core\SASSTS.Application\SASSTS.Application.csproj", "{281C5750-34C5-4961-8F4B-A929083C276A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SASSTS.Domain", "Core\SASSTS.Domain\SASSTS.Domain.csproj", "{1D4F8D05-D206-4333-A578-C15226A2FD5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SASSTS.Domain", "Core\SASSTS.Domain\SASSTS.Domain.csproj", "{1D4F8D05-D206-4333-A578-C15226A2FD5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SASSTS.Infrastructure", "Infrastructure\SASSTS.Infrastructure\SASSTS.Infrastructure.csproj", "{5592F087-CA86-4D68-8056-1EBC2FB7FF62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SASSTS.Infrastructure", "Infrastructure\SASSTS.Infrastructure\SASSTS.Infrastructure.csproj", "{5592F087-CA86-4D68-8056-1EBC2FB7FF62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SASSTS.Persistence", "Infrastructure\SASSTS.Persistence\SASSTS.Persistence.csproj", "{AB1FAB23-B485-4576-B1F4-77D1BD7B8857}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SASSTS.Persistence", "Infrastructure\SASSTS.Persistence\SASSTS.Persistence.csproj", "{AB1FAB23-B485-4576-B1F4-77D1BD7B8857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SASSTS.Utils", "Infrastructure\SASSTS.Utils\SASSTS.Utils.csproj", "{ED753818-0623-4AF3-A1B5-27F6FC9187E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SASSTS.Utils", "Infrastructure\SASSTS.Utils\SASSTS.Utils.csproj", "{ED753818-0623-4AF3-A1B5-27F6FC9187E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SASSTS.Api", "Api\SASSTS.Api\SASSTS.Api.csproj", "{6ADC441D-A86B-430F-8EA9-07195FC2794B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SASSTS.Api", "Api\SASSTS.Api\SASSTS.Api.csproj", "{6ADC441D-A86B-430F-8EA9-07195FC2794B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
